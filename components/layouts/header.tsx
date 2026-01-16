@@ -49,7 +49,7 @@ export default function Header() {
                ))}
             </div>
 
-            <div className="hidden sm:flex items-center gap-3">
+            <div className="hidden lg:flex items-center gap-3">
                <span className="hidden lg:inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/10 px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.18em] text-white/80">
                   ⚡ 7/24 Acil Destek
                </span>
